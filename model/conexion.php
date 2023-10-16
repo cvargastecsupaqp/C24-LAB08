@@ -1,6 +1,6 @@
 <?php 
-$contrasena = "Jg2JP9n3XpUdHJ";
-$usuario = "Tecsup";
+$contrasena = "";
+$usuario = "root";
 $nombre_bd = "crud";
 
 try {
