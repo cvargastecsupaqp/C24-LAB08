@@ -5,7 +5,7 @@ $nombre_bd = "crud";
 
 try {
 	$bd = new PDO (
-		'mysql:host=bdmysql.testing-apps.com;
+		'mysql:host=localhost;
 		dbname='.$nombre_bd,
 		$usuario,
 		$contrasena,
